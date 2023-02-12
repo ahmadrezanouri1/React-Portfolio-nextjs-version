@@ -44,7 +44,14 @@ export default function Home() {
           <span className={Style.hand}>🤚</span>
         </h1>
         <h2 className={classNames(Style.heading_h2)}>I'm {info.position}.</h2>
-        <Box component={"ul"} p={"0.8rem"}>
+        <Box
+          component={"ul"}
+          p={"0.8rem"}
+          style={{
+            listStyle: "none",
+            fontSize: "20px",
+          }}
+        >
           {info.miniBio.map((bio, index) => (
             <EmojiBullet key={index} emoji={bio.emoji} text={bio.text} />
           ))}
@@ -68,3 +75,4 @@ export default function Home() {
     </Box>
   );
 }
+// ghrar hozori in youtube

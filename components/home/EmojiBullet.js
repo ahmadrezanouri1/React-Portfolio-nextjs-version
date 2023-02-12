@@ -7,9 +7,12 @@ function EmojiBullet(props) {
   return (
     <Box
       component={"li"}
-      fontSize={"1rem"}
+      fontSize={"1.2rem"}
       lineHeight={1.5}
-      style={{ cursor: "default" }}
+      style={{
+        cursor: "default",
+        fontFamily: "Trebuchet MS, sans-serif",
+      }}
     >
       <Box
         component={"span"}
