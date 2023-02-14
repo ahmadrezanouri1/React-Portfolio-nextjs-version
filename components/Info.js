@@ -89,33 +89,15 @@ export const info = {
     // This is where your portfolio projects will be detailed
     {
       title: "Project 1",
-      live: "https://paytonpierce.dev", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+      live: "https://amreyhani.ir", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
       source: "https://github.com/paytonjewell", // this should be a link to the **repository** of the project, where the code is hosted.
-      image: "/images/mock1.png",
+      image: "/images/hd.png",
     },
     {
       title: "Project 2",
-      live: "https://paytonpierce.dev",
-      source: "https://github.com/paytonjewell",
-      image: "/images/mock2.png",
-    },
-    {
-      title: "Project 3",
-      live: "https://paytonpierce.dev",
-      source: "https://github.com/paytonjewell",
-      image: "/images/mock3.png",
-    },
-    {
-      title: "Project 4",
-      live: "https://paytonpierce.dev",
-      source: "https://github.com/paytonjewell",
-      image: "/images/mock4.png",
-    },
-    {
-      title: "Project 5",
-      live: "https://paytonpierce.dev",
-      source: "https://github.com/paytonjewell",
-      image: "/images/mock5.png",
+      live: "https://github.com/abolfazle79/React-Portfolio-nextjs-version", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+      source: "https://github.com/paytonjewell", // this should be a link to the **repository** of the project, where the code is hosted.
+      image: "/images/profile.png",
     },
   ],
 };
