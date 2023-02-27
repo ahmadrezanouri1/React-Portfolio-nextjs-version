@@ -2,10 +2,11 @@ import React from "react";
 import PortfolioBlock from "./PortfolioBlock";
 import { Box, Grid } from "@mui/material";
 import { info } from "../Info";
+import Style2 from "../../src/styles/scss/BaseLayout.module.scss";
 
-export default function Portfolio() {
+export default function Portfolio({ dark }) {
   return (
-    <Box>
+    <Box className={dark ? Style2.dark : Style2.light}>
       <Grid container display={"flex"} justifyContent={"center"}>
         {info.portfolio.map((project, index) => (
           <Grid item xs={12} md={6} key={index}>

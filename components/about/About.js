@@ -1,10 +1,12 @@
 import React from "react";
 import Style from "../../src/styles/scss/About.module.scss";
+import Style2 from "../../src/styles/scss/BaseLayout.module.scss";
+
 import Terminal from "./Terminal";
 import { Box } from "@mui/material";
 import { info } from "../Info";
 
-export default function About() {
+export default function About({ dark }) {
   const firstName = info.firstName.toLowerCase();
 
   function aboutMeText() {
@@ -94,7 +96,8 @@ export default function About() {
       display={"flex"}
       flexDirection={"column"}
       alignItems={"center"}
-      mt={"3rem"}
+      pt={"4rem"}
+      className={dark ? Style2.dark : Style2.light}
     >
       <Terminal text={aboutMeText()} />
       <Terminal text={skillsText()} />
