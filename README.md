@@ -1,20 +1,12 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Using
 
-## Getting Started
+1.git clone https://github.com/abolfazle79/React-Portfolio-nextjs-version.git or git@github.com:abolfazle79/React-Portfolio-nextjs-version.git
 
-First, run the development server:
+2.cd React-Portfolio-nextjs-version
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+3.npm i
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+4.npm run dev
 
 ## Next.js portfolio website
 
