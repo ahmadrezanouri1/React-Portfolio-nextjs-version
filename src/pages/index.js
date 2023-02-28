@@ -38,10 +38,9 @@ export default function page({ dark }) {
               width={"100%"}
             >
               <p style={{ textAlign: "center" }}>
-                template created with &hearts; by Payton Pierce and change to
-                the nextjs app by Abolfazl Abolghasemi
+                template created with &hearts; by Abolfazl Abolghasemi
               </p>
-              <p>&copy; 2022</p>
+              <p>&copy; 2023</p>
             </Box>
           </Grid>
         </Grid>

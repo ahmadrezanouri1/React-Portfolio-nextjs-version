@@ -16,9 +16,9 @@ const links = [
     active: "about",
   },
   {
-    name: "",
-    to: "/about",
-    active: "about",
+    name: "portfolio",
+    to: "/portfolio",
+    active: "portfolio",
   },
 ];
 
