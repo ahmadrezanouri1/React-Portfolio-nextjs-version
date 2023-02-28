@@ -8,6 +8,8 @@
 
 4.npm run dev
 
+note : change all data in /components/info.js
+
 ## Next.js portfolio website
 
 by Abolfazle Abolghasemi
