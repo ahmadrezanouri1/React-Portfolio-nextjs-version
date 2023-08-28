@@ -1,7 +1,7 @@
 import "@/styles/globals.css";
 import "font-awesome/css/font-awesome.min.css";
 import Navbar from "components/Navbar";
-import Style from "../../src/styles/scss/BaseLayout.module.scss";
+import Style from "../src/styles/scss/BaseLayout.module.scss";
 import { Box } from "@mui/material";
 import { useState } from "react";
 

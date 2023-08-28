@@ -21,7 +21,7 @@ export default function Home() {
         alt={"image of developer"}
         style={{ background: info.gradient }}
         component={"img"}
-        src={"/images/self.png"}
+        src={"/images/ahmadreza.jpg"}
         width={{ xs: "35vh", md: "40vh" }}
         height={{ xs: "35vh", md: "40vh" }}
         borderRadius={"50%"}

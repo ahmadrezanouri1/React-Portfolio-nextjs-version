@@ -1,6 +1,6 @@
 import Head from "next/head";
 import React, { useState } from "react";
-import Style from "../styles/scss/BaseLayout.module.scss";
+import Style from "../src/styles/scss/BaseLayout.module.scss";
 import { Box, Grid } from "@mui/material";
 import Home from "components/home/Home";
 
@@ -8,7 +8,7 @@ export default function page({ dark }) {
   return (
     <>
       <Head>
-        <title>Abolfazl.A</title>
+        <title>Ahmadreza Nouri</title>
         <meta
           name="description"
           content="abolfazl abolghasemi front-end developer"
@@ -38,9 +38,10 @@ export default function page({ dark }) {
               width={"100%"}
             >
               <p style={{ textAlign: "center" }}>
-                template created with &hearts; by Abolfazl Abolghasemi
+                template created with &hearts; by Ahmadreza Nouri
               </p>
               <p>&copy; 2023</p>
+              
             </Box>
           </Grid>
         </Grid>

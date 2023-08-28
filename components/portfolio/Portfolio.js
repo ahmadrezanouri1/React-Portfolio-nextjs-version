@@ -9,7 +9,6 @@ export default function Portfolio({ dark }) {
     <Box
       className={dark ? Style2.dark : Style2.light}
       style={{
-        height: "100vh",
         justifyContent: "center",
         alignItems: "center",
         display: "flex",
