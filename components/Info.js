@@ -101,16 +101,23 @@ export const info = {
       image: "/images/hd.png",
     },
     {
-      title: "Project 2 (personal profile)",
-      live: "https://ahmadrezanouri.ir", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+      title: "Project 7(VBEX) ",
+      live: "https://vbex.ir", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
       source: "https://github.com/ahmadrezanouri1", // this should be a link to the **repository** of the project, where the code is hosted.
-      image: "/images/profile.png",
+      image: "/images/vbex.png",
     },
+
     {
       title: "Project 3 (Ipinit --submit Ads--) ",
       live: "https://ipinit.ir", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
       source: "https://github.com/ahmadrezanouri1", // this should be a link to the **repository** of the project, where the code is hosted.
       image: "/images/ipinit.png",
+    },
+    {
+      title: "Project 6 (Iranpakban) ",
+      live: "https://iranpakban.ir", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+      source: "https://github.com/ahmadrezanouri1", // this should be a link to the **repository** of the project, where the code is hosted.
+      image: "/images/iranpakban.png",
     },
     {
       title: "Project 4 (reyhanimedia) ",
@@ -119,16 +126,23 @@ export const info = {
       image: "/images/reyhanimedia.png",
     },
     {
+      title: "Project 5 (Richtech) ",
+      live: "https://richtech.ir", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+      source: "https://github.com/ahmadrezanouri1", // this should be a link to the **repository** of the project, where the code is hosted.
+      image: "/images/richtech.png",
+    },
+    {
       title: "Project 5 (IranArmaghan) ",
       live: "https://iranarmaghan.ir", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
       source: "https://github.com/ahmadrezanouri1", // this should be a link to the **repository** of the project, where the code is hosted.
       image: "/images/2.jpg_i1TGB0m_1.jpg.jpg",
     },
+
     {
-      title: "Project 6 (IranArmaghan) ",
-      live: "https://iranarmaghan.ir", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+      title: "Project 2 (personal profile)",
+      live: "https://ahmadrezanouri.ir", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
       source: "https://github.com/ahmadrezanouri1", // this should be a link to the **repository** of the project, where the code is hosted.
-      image: "/images/",
+      image: "/images/profile.png",
     },
   ],
 };
