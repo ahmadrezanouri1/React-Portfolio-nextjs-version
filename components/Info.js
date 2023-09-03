@@ -47,7 +47,7 @@ export const info = {
       label: "github",
     },
     {
-      link: "https://linkedin.com/ahmadreza-nouri-6b4607236",
+      link: "https://www.linkedin.com/in/ahmadreza-nouri-6b4607236",
       icon: "fa fa-linkedin",
       label: "linkedin",
     },
